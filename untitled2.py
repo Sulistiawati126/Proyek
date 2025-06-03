@@ -19,6 +19,7 @@ df = pd.read_csv(url)
 
 # Display the first 1160 rows
 df.head(1160)
+!pip install Sastrawi
 
 
 
