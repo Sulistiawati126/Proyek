@@ -25,7 +25,7 @@ df.head(1160)
 # prompt: berikan saya kode untuk menampilkan 3 fitur halaman seperti dashboard, model, dan prediksi data pada streamlit
 
 # Install streamlit if it's not already installed
-!pip install streamlit
+
 
 import streamlit as st
 import pandas as pd
