@@ -20,7 +20,7 @@ df = pd.read_csv(url)
 # Display the first 1160 rows
 df.head(1160)
 
-!pip install Sastrawi
+
 
 # prompt: berikan saya kode untuk menampilkan 3 fitur halaman seperti dashboard, model, dan prediksi data pada streamlit
 
